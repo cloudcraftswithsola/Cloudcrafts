@@ -3,11 +3,11 @@ My Portfolio
 
 # 👋 Hello, I'm Owolabi Olusola
 
-- :telescope: I Currently work as a Senior Project Manager in a Fintech Company and contributing to the development of AI and Cloud solutions as a Certified Cloud Practitioner.
+- :telescope: I Currently work as a Senior Project Manager in a Fintech Company and contribute to the development of AI and Cloud solutions as a Certified Cloud Practitioner.
   
 - :seedling: Exploring Cloud DevOps Engineering.
 
-- :zap: In my free time, I Make research on Latest Technology tools, YCombinator Startups and Venture Capitals
+- :zap: In my free time, I research on Latest Technology tools, YCombinator Startups and Venture Capitals
 
 - :mailbox: How to reach me: - [Email](mailto:owolabithebest@gmail.com)
 
@@ -59,7 +59,7 @@ I am an experienced Project Manager with over 4 years of expertise in IT Project
 
 ### :hammer_and_wrench: Project Managed Languages and Tools :
 
-During the course of Managing various teams and Project, I've managed Software development in the following Language and Tools
+During the course of Managing various teams and Projects, I've managed Software development in the following Language and Tools
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -81,7 +81,7 @@ During the course of Managing various teams and Project, I've managed Software d
 
 ## 🚀 My Projects
 
-_During my practice as an IT Project Manager, I've Lead Team of 4-8 in Software development and Management level, I currently work as a Project Manager, Senior Officer. I Work with a Fintech Company where we proffer solutions to generational banks in Nigeria._
+_During my practice as an IT Project Manager, I've led Teams of 4-8 at the Software development and Management level, I currently work as a Senior Project Manager. I Work with a Fintech Company where we proffer solutions to generational banks in Nigeria._
 
 ### Project 1: BlissHall Streaming App
 
@@ -90,9 +90,8 @@ _During my practice as an IT Project Manager, I've Lead Team of 4-8 in Software 
 _Description of the project._
 BlissHall is a Streamin
 
-### Project 2: [Project Name 2]
+### Project 2: RDS Frontend Development
 
-[![Project 2](Giphy_Link_2)](Link_to_Project_2)
 
 _Description of the project._
 
